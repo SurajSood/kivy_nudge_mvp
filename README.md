@@ -14,7 +14,7 @@ Provide nudges (reminders) to end users that will enhance their lives.
 
 ## Nudges
 
-(https://en.wikipedia.org/wiki/Nudge_theory)[Nudge Theory] states that behavior and decisions can be significantly influenced by well-placed and well-timed reminders. Nudges have been demonstrated to have significant positive outcomes. 
+[Nudge Theory](https://en.wikipedia.org/wiki/Nudge_theory) states that behavior and decisions can be significantly influenced by well-placed and well-timed reminders. Nudges have been demonstrated to have significant positive outcomes. 
 
 ## Machine Learning
 

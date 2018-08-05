@@ -1,3 +1,7 @@
+'''
+Basic accelerometer example.
+'''
+
 from kivy.lang import Builder
 from kivy.app import App
 from kivy.properties import ObjectProperty
